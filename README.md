@@ -9,3 +9,5 @@ llm --> output_parser(<b>JSON Output Parser</b>\n\nNutritionFacts Pydantic model
 
 ### Notebook
 [output-parser-openai.ipynb](output-parser-openai.ipynb)
+
+[output-parser-databricks.ipynb](output-parser-databricks.ipynb)
